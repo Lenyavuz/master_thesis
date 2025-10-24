@@ -1,0 +1,11 @@
+# The Schechter function was fitted to an averaged function of the combination of all sky areas. This was chosen over fitting to sky areas then averaging the resulting coefficients because it yielded better and more reasonable results. The coefficients are in the order M_star, alpha, phi respectively, with the following line containing their standard deviation. Last two lines contain information on minimum and maximum values of absolute magnitude in range of fitting the function. Ordering: sch_coeff_g, sch_err_g, sch_coeff_r, sch_err_r, sch_coeff_i, sch_err_i, sch_coeff_z, sch_err_z, Mmin, Mmax (g,r,i,z in order for the last two)
+-2.022083e+01 -1.109108e+00 1.838092e-03 nan
+6.441320e-02 8.929665e-02 -2.117728e-04 nan
+-2.115230e+01 -1.163541e+00 1.249704e-03 nan
+5.795381e-02 6.877717e-02 -1.398716e-04 nan
+-2.152691e+01 -1.101176e+00 1.138027e-03 nan
+5.318774e-02 5.916064e-02 -1.166756e-04 nan
+-2.192288e+01 -1.253291e+00 9.362801e-04 nan
+6.320019e-02 7.729120e-02 -1.129833e-04 nan
+-1.831042e+01 -1.870625e+01 -1.878542e+01 -1.973542e+01
+-2.456458e+01 -2.496042e+01 -2.496042e+01 -2.496042e+01
